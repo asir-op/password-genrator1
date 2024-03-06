@@ -36,6 +36,7 @@ function App() {
     <div className='w-full h-screen bg-gray-700 mt-0 relative'>
 
     <div className='w-6/12 h-15 bg-gray-600 rounded-lg absolute overflow-hidden left-1/4 top-10' >
+        <h1 className='mt-5 text-center text-orange-600 text-3xl font-bold'>Random Password Generator</h1>
         <div className=' flex gap-x-3 '>
             {/* <h1 className='text-lg text-center pt-4 text-black'>Password Generator</h1> */}
             <input type="text"
